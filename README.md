@@ -1,1 +1,1 @@
-# csgo_shoot_ai
+# csgo_trigger_ai
